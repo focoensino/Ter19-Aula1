@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 375px;
+    height: 100%;
+    margin-inline: auto;
+    background-color: #121214;
+    padding: 10px;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.box{
+    background-color: #202024;
+    width: 275px;
+    margin-inline: auto;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.titulo{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.conteudo{
+    color: #7c7c8a;
+   text-align: justify;
+}
+
+
+
+
+
+
+
