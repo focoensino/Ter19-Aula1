@@ -21,6 +21,7 @@ h1{
 
 .box{
     background-color: #202024;
+    border:1px solid 323238;
     width: 275px;
     margin-inline: auto;
     padding: 15px;
